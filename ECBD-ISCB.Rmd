@@ -1,6 +1,6 @@
 ---
 title: "Bachelors to PhD"
-subtitle: "Taling the leap"
+subtitle: "Taking the leap"
 author: "Rushani Wijesuriya"
 output:
   xaringan::moon_reader:
